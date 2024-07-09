@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lorenzotomada
+- 👀 I’m interested in Numerical Analysis and Mathematical Modeling
+- 🌱 I’m currently a student at the University of Trieste and SISSA. I'm writing my thesis in Model Reduction in complex PDEs at the SISSA mathLab
+- 📫 My email: ltomada@sissa.it
