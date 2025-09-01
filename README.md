@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Lorenzo Tomada, I’m a PhD student at SISSA mathLab
-- 👀 I’m interested in Numerical Analysis, Model Order Reduction and Mathematical Modeling
+- 👀 I’m interested in Scientific Machine Learning and Model Order Reduction, especially using Graph Neural Networks
 - 📫 My email: ltomada@sissa.it
